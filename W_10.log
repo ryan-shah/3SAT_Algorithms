@@ -1,0 +1,90 @@
+c testing file: tests/10.40.160707067.cnf
+c 4
+s SATISFIABLE
+v -1 -2 3 -4 -5 6 7 -8 -9 -10
+
+real	0m0.190s
+user	0m0.064s
+sys	0m0.008s
+
+c testing file: tests/10.40.967323288.cnf
+c 5
+s SATISFIABLE
+v 1 2 3 4 -5 -6 -7 8 -9 10
+
+real	0m0.192s
+user	0m0.068s
+sys	0m0.004s
+
+c testing file: tests/10.42.1465130262.cnf
+c 5
+s SATISFIABLE
+v 1 2 -3 4 5 6 7 8 -9 -10
+
+real	0m0.178s
+user	0m0.064s
+sys	0m0.008s
+
+c testing file: tests/10.42.504071595.cnf
+c 5
+s SATISFIABLE
+v -1 2 3 4 5 -6 7 8 9 -10
+
+real	0m0.162s
+user	0m0.068s
+sys	0m0.008s
+
+c testing file: tests/10.44.1247388329.cnf
+c 30003
+c 43 clauses satisfied
+v UNKNOWN
+
+real	1m32.416s
+user	0m45.936s
+sys	0m0.056s
+
+c testing file: tests/10.44.1667358355.cnf
+c 3
+s SATISFIABLE
+v -1 2 3 4 -5 -6 -7 -8 9 -10
+
+real	0m0.166s
+user	0m0.060s
+sys	0m0.012s
+
+c testing file: tests/10.46.183405239.cnf
+c 57
+s SATISFIABLE
+v -1 2 -3 -4 -5 -6 -7 -8 -9 10
+
+real	0m0.291s
+user	0m0.124s
+sys	0m0.012s
+
+c testing file: tests/10.46.623142927.cnf
+c 92
+s SATISFIABLE
+v -1 -2 3 4 -5 -6 7 8 -9 10
+
+real	0m0.372s
+user	0m0.168s
+sys	0m0.008s
+
+c testing file: tests/10.48.1494607484.cnf
+c 6
+s SATISFIABLE
+v -1 2 -3 -4 -5 6 7 -8 -9 10
+
+real	0m0.174s
+user	0m0.076s
+sys	0m0.000s
+
+c testing file: tests/10.48.640112774.cnf
+c 30003
+c 47 clauses satisfied
+v UNKNOWN
+
+real	1m42.657s
+user	0m49.124s
+sys	0m0.048s
+

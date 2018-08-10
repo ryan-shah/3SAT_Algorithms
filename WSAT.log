@@ -1,0 +1,97 @@
+c testing file: myTests/100.410.1010795163.cnf
+c 30003
+c 409 clauses satisfied
+v UNKNOWN
+
+real	10m20.499s
+user	6m53.460s
+sys	0m0.200s
+
+c testing file: myTests/100.420.1182894637.cnf
+c 3187
+s SATISFIABLE
+v 1 2 -3 4 -5 -6 -7 -8 -9 -10 11 12 13 -14 -15 16 17 18 -19 20 21 -22 23 -24 -25 26 27 28 29 30 31 32 33 -34 -35 -36 37 -38 39 -40 41 -42 43 44 -45 -46 47 48 -49 -50 -51 -52 53 -54 -55 56 -57 -58 59 60 61 62 63 -64 65 66 67 68 69 70 71 -72 -73 74 -75 -76 77 -78 -79 -80 -81 82 -83 -84 85 -86 -87 -88 89 -90 91 -92 93 -94 -95 96 -97 -98 99 -100
+
+real	0m51.263s
+user	0m33.596s
+sys	0m0.016s
+
+c testing file: myTests/100.430.11841216.cnf
+c 30003
+c 428 clauses satisfied
+v UNKNOWN
+
+real	11m34.157s
+user	7m16.016s
+sys	0m0.152s
+
+c testing file: myTests/100.440.1369153400.cnf
+c 30003
+c 438 clauses satisfied
+v UNKNOWN
+
+real	8m52.197s
+user	7m13.784s
+sys	0m0.064s
+
+c testing file: myTests/100.450.1367308746.cnf
+Traceback (most recent call last):
+  File "walkSAT.py", line 157, in <module>
+    func(sys.argv[1])
+  File "walkSAT.py", line 136, in func
+    done = walkSat(copy.deepcopy(SAT))
+  File "walkSAT.py", line 66, in walkSat
+    good.append(copy.deepcopy(clause))
+  File "/usr/lib/python3.5/copy.py", line 187, in deepcopy
+    _keep_alive(x, memo) # Make sure x lives at least as long as d
+  File "/usr/lib/python3.5/copy.py", line 264, in _keep_alive
+    memo[id(memo)].append(x)
+KeyboardInterrupt
+
+real	5m20.027s
+user	5m2.012s
+sys	0m0.000s
+
+c testing file: myTests/100.460.152641495.cnf
+Traceback (most recent call last):
+  File "walkSAT.py", line 157, in <module>
+    func(sys.argv[1])
+  File "walkSAT.py", line 136, in func
+    done = walkSat(copy.deepcopy(SAT))
+  File "walkSAT.py", line 66, in walkSat
+    good.append(copy.deepcopy(clause))
+  File "/usr/lib/python3.5/copy.py", line 155, in deepcopy
+    y = copier(x, memo)
+  File "/usr/lib/python3.5/copy.py", line 218, in _deepcopy_list
+    y.append(deepcopy(a, memo))
+  File "/usr/lib/python3.5/copy.py", line 148, in deepcopy
+    if y is not _nil:
+KeyboardInterrupt
+
+real	0m1.058s
+user	0m0.632s
+sys	0m0.000s
+
+c testing file: myTests/10.44.0.cnf
+Traceback (most recent call last):
+  File "walkSAT.py", line 157, in <module>
+    func(sys.argv[1])
+  File "walkSAT.py", line 136, in func
+    done = walkSat(copy.deepcopy(SAT))
+  File "walkSAT.py", line 68, in walkSat
+    bad.append(copy.deepcopy(clause))
+KeyboardInterrupt
+
+real	0m0.311s
+user	0m0.136s
+sys	0m0.012s
+
+c testing file: myTests/5.3.0.cnf
+c 0
+s SATISFIABLE
+v 1 2 -3 4 5
+
+real	0m0.141s
+user	0m0.044s
+sys	0m0.020s
+

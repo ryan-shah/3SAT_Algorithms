@@ -1,0 +1,78 @@
+c testing file: tests/10.40.160707067.cnf
+s SATISFIABLE
+v -1 -2 -4 -5 6 7 -8 -9 -10
+
+real	0m0.066s
+user	0m0.048s
+sys	0m0.012s
+
+c testing file: tests/10.40.967323288.cnf
+s SATISFIABLE
+v 1 2 3 4 -5 6 -7 8 9 10
+
+real	0m0.067s
+user	0m0.044s
+sys	0m0.016s
+
+c testing file: tests/10.42.1465130262.cnf
+s SATISFIABLE
+v 1 2 -3 4 5 6 7 8 -9 -10
+
+real	0m0.070s
+user	0m0.048s
+sys	0m0.012s
+
+c testing file: tests/10.42.504071595.cnf
+s SATISFIABLE
+v 2 3 4 5 -6 7 8 9 -10
+
+real	0m0.067s
+user	0m0.052s
+sys	0m0.008s
+
+c testing file: tests/10.44.1247388329.cnf
+UNSATISFIABLE
+
+real	0m0.074s
+user	0m0.056s
+sys	0m0.012s
+
+c testing file: tests/10.44.1667358355.cnf
+s SATISFIABLE
+v -1 2 3 -4 -5 6 7 -8 9 10
+
+real	0m0.068s
+user	0m0.044s
+sys	0m0.016s
+
+c testing file: tests/10.46.183405239.cnf
+s SATISFIABLE
+v -1 2 -3 -4 -5 -6 -7 -8 -9 10
+
+real	0m0.074s
+user	0m0.064s
+sys	0m0.000s
+
+c testing file: tests/10.46.623142927.cnf
+s SATISFIABLE
+v -1 -2 3 4 -5 -6 7 8 -9 10
+
+real	0m0.070s
+user	0m0.052s
+sys	0m0.008s
+
+c testing file: tests/10.48.1494607484.cnf
+s SATISFIABLE
+v -1 2 -3 -4 -5 6 7 -8 -9 10
+
+real	0m0.068s
+user	0m0.056s
+sys	0m0.004s
+
+c testing file: tests/10.48.640112774.cnf
+UNSATISFIABLE
+
+real	0m0.077s
+user	0m0.064s
+sys	0m0.004s
+

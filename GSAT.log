@@ -1,0 +1,19 @@
+c testing file: myTests/100.410.1010795163.cnf
+
+c testing file: myTests/100.420.1182894637.cnf
+
+c testing file: myTests/100.430.11841216.cnf
+
+c testing file: myTests/100.440.1369153400.cnf
+
+c testing file: myTests/100.450.1367308746.cnf
+
+c testing file: myTests/100.460.152641495.cnf
+
+c testing file: myTests/10.44.0.cnf
+
+c testing file: myTests/5.3.0.cnf
+c 0
+s SATISFIABLE
+v 1 2 -3 4 5
+
